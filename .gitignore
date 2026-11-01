@@ -1,0 +1,27 @@
+# Build artifacts
+.build/
+*.dmg
+*.app
+ShurikenApp/
+VorssaintApp/
+
+# IDE
+.DS_Store
+*.xcworkspace
+*.xcodeproj/
+*.swp
+
+# macOS
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Python
+__pycache__/
+*.pyc
+
+# Temporary
+/tmp/
+*.tmp
+temp*
